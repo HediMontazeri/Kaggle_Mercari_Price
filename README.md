@@ -7,4 +7,4 @@ The goal is to predict price for each item based on features such as
 * brand 
 * category
 
-The first pyhton code only explores the data and gain some insights from that
+The MercariDataExplore.ipynb only explores the data and gain some insights from that
